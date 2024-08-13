@@ -5,6 +5,13 @@ This Excel project focuses on analysing and visualising coffee sales data for a 
 
 After filling in the gaps, I performed several calculations to determine the order sales, standardised the data by transforming abbreviations into full names, and ensured proper formatting across all columns (e.g., converting numbers into currency and weights into kilograms). Finally, I created three pivot tables and visualisations to analyse the data from different perspectives and integrated them into an interactive dashboard.
 
+### Project Dashboard
+<img
+  src="dashboard.png"
+  alt=""
+  title="Image of the interactive Excel dashboard showcasing an active timeline filter"
+  style="display: inline-block; margin: 0 auto; max-width: 60vw"/>
+
 ### Techniques Utilised
 <b>Data Lookup:</b>
 <ul>
